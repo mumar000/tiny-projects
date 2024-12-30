@@ -1,3 +1,5 @@
 # Small Projects
 
-[Scroll Animation](form-Input-Wave/)
+[Scroll Animation](Scroll-Animation/)
+[Form Input Wave](form-Input-Wave/)
+[Rotating Navigation](rotating-Navigation/)
