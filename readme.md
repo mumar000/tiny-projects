@@ -1,3 +1,3 @@
 # Small Projects
 
-![Scroll Animation](form-Input-Wave/)
+[Scroll Animation](form-Input-Wave/)
