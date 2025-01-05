@@ -11,4 +11,4 @@
 | 2     | [Form Input Wave](form-Input-Wave)       | [Live Demo](forminputwave.netlify.app) |
 | 3     | [Rotating Navigation](rotating-Navigation/)    | [View Demo](https://expensetrackerdemo.com) |
 
-
+[link](forminputwave.netlify.app)
